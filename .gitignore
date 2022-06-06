@@ -1,6 +1,6 @@
 .vscode
 .data/*.txt
-.data/.proof
+.data/.proof/*.json
 
 
 # Logs
