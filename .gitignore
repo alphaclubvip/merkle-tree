@@ -1,3 +1,8 @@
+.vscode
+.data/*.txt
+.data/.proof
+
+
 # Logs
 logs
 *.log
